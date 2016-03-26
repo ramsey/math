@@ -61,7 +61,7 @@ The ramsey/math library is copyright © [Ben Ramsey](https://benramsey.com/) and
 
 
 
-[conduct]: https://github.com/ramsey/math/blob/master/CONDUCT.md
+[conduct]: https://github.com/ramsey/math/blob/master/CODE_OF_CONDUCT.md
 [java]: http://docs.oracle.com/javase/8/docs/api/java/lang/Number.html
 [packagist]: https://packagist.org/packages/ramsey/math
 [composer]: http://getcomposer.org/
