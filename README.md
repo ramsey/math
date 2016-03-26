@@ -9,7 +9,7 @@
 [![Coverage Status][badge-coverage]][coverage]
 [![Total Downloads][badge-downloads]][downloads]
 
-ramsey/math is a PHP 5.4+ mathematics library, including support for large numbers.
+ramsey/math is a PHP 5.6+ mathematics library, including support for large numbers.
 
 This project adheres to a [Contributor Code of Conduct][conduct]. By participating in this project and its community, you are expected to uphold this code.
 
@@ -21,28 +21,7 @@ Much inspiration for this library came from the [Java][java] `Math` and `Number`
 
 ## Installation
 
-The preferred method of installation is via [Packagist][] and [Composer][]. Run
-the following command to install the package and add it as a requirement to
-your project's `composer.json`:
-
-```bash
-composer require ramsey/math
-```
-
-
-## API Documentation
-
-The [latest class API documentation][apidocs] is available online.
-
-This project uses [ApiGen](http://apigen.org/) to generate this documentation.
-To generate the documentation on your own, install dev dependencies and run the
-following command from the root of the project:
-
-```
-./vendor/bin/apigen generate --source="src" --destination="build/apidocs" --title="ramsey/math" --template-theme="bootstrap" --deprecated --todo
-```
-
-This will generate documentation in the `build/apidocs/` folder.
+TBD
 
 
 ## Examples
