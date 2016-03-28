@@ -21,7 +21,11 @@ Much inspiration for this library came from the [Java][java] `Math` and `Number`
 
 ## Installation
 
-TBD
+The preferred method of installation is via [Packagist][] and [Composer][]. Run the following command to install the package and add it as a requirement to your project's `composer.json`:
+
+```bash
+composer require ramsey/math
+```
 
 
 ## Examples
