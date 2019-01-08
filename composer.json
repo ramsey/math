@@ -1,5 +1,6 @@
 {
     "name": "ramsey/math",
+    "abandoned": "brick/math",
     "description": "A PHP 5.6+ mathematics library, including support for large numbers.",
     "type": "library",
     "keywords": ["math", "number", "bcmath", "gmp", "arithmetic"],
